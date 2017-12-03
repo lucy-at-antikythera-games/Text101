@@ -23,7 +23,7 @@ Have [Unity 5.6.4](https://unity3d.com/get-unity/download/archive) or later
 
 ## Versioning
 
-Release numbers will on the title screen of the game itself, in keeping with the flavor of interactive fiction games. As of this writing, the game is on release 0. I may clean up the code in release 0.0.1, but because this is a learning project, I'm unlikely to go beyond that.
+Release number is on the title screen of the game itself, in keeping with the flavor of interactive fiction games. As of this writing, the game is on release 0. I may clean up the code in a release 0.0.1, but because this is a learning project, I'm unlikely to go beyond that.
 
 ## Author
 
