@@ -31,7 +31,7 @@ Release number is on the title screen of the game itself, in keeping with the fl
 
 ## License
 
-This project does not have an official license because I haven't done the research to be familiar enough with them. Pretty much, this is under a license equivalent to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): that is, please feel free to use this, share it under a similar license, and use the code to build your own game. But please credit me, and please don't sell it.
+This project does not have an official license because I haven't done the research to be familiar enough with them. Pretty much, this is under a license equivalent to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): that is, please feel free to use this, share it under a similar license, and use the code to build your own game. But please credit me, and please don't sell it. *The non-commercial clause expires twenty-five (25) years from the date of the initial commit; that is, this code is open to commercial use on and after November 29, 2043.*
 
 ## Acknowledgments
 
